@@ -79,7 +79,7 @@ body {
     cursor: pointer;
 }
 
-.blog_content .title > a :hover {
+.blog_content .title > a:hover {
     color: var(--yellow);
 }
 
