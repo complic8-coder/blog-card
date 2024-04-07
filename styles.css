@@ -68,7 +68,7 @@ body {
     font-weight: 500;
 }
 
-.blog_content .title {
+.blog_content .title > a {
     margin-bottom: 16px;
     display: inline-block;
     font-size: 24px;
@@ -79,7 +79,7 @@ body {
     cursor: pointer;
 }
 
-.blog_content .title:hover {
+.blog_content .title > a :hover {
     color: var(--yellow);
 }
 
