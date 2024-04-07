@@ -121,7 +121,11 @@ body {
         font-size: 12px;
     }
 
-    .blog_content .title {
+    .blog_content .publishdate {
+        margin-bottom: 6px;
+    }
+
+    .blog_content .title > a {
         margin-bottom: 14px;
         font-size: 20px;
     }
